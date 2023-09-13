@@ -41,15 +41,15 @@ Algumas funcionalidades do projeto incluem:
 <h3>Mobile 📱</h3>
 <h4 align="center">Login</h4>
 
-<img src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png" align="center">
+<img align="center" src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png">
 
 <h4 align="center">Posts</h4>
 
-<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png" align="center">
+<img align="center" src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png" >
 
 <h4 align="center">Comments</h4>
 
-<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png" align="center">
+<img align="center" src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png">
 
 <h2>🛠️ Configuração:</h2>
 

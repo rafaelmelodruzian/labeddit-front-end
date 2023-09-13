@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Labeddit Front-end</h1>
 
-<p id="description">Bem-vindos ao Labeddit! 😎 Uma rede social inspirada no reddit. Desenvolvida usando a biblioteca React e estilizada com styled-components. Este é o projeto final que coroa nosso percurso pelo curso full-stack da Labenu 🧡</p>
+<p id="description">Bem-vindos ao Labeddit! 😎 Uma rede social inspirada no reddit. Desenvolvida usando a biblioteca React e estilizada com styled-components. Este é o projeto final que coroa nosso percurso pelo curso full-stack da Labenu </p>
 
 <p align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="shields"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="shields"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="shields"></p>
 
@@ -26,24 +26,29 @@ Algumas funcionalidades do projeto incluem:
 
 <h4 align="center">Login</h4>
 
-![felipeg-almeida github io_labeddit-frontend_](https://github.com/FelipeG-Almeida/loginassets/73674044/2262c5fa-969b-4800-92cb-787c57e7cea1)
+[Desk 1](https://link-desk1)
 
 <h4 align="center">Posts</h4>
 
-![felipeg-almeida github io_labeddit-frontend_ (1)](https://github.com/FelipeG-Almeida/loginassets/73674044/e3e4852f-e196-4c04-838c-8686e7a00c97)
+[Desk 2](https://link-desk2)
 
-<h3>Mobile e Tablet 📱</h3>
-<p align="center">
-  <kbd>
-    <img width="50%" src="https://github.com/FelipeG-Almeida/loginassets/73674044/4edc384a-31ab-49b7-8331-dd0deceb4b46" />
-  </kbd>
-</p>
+<h4 align="center">Comments</h4>
 
-<p align="center">
-  <kbd>
-    <img width="50%" src="https://github.com/FelipeG-Almeida/loginassets/73674044/9d6914ea-6ffc-4100-be5d-1adbd541e6d9" />
-  </kbd>
-</p>
+[Desk 3](https://link-desk3)
+
+
+<h3>Mobile 📱</h3>
+<h4 align="center">Login</h4>
+
+[Mob 1](https://link-mob1)
+
+<h4 align="center">Posts</h4>
+
+[Mob 2](https://link-mob2)
+
+<h4 align="center">Comments</h4>
+
+[Mob 3](https://link-mob3)
 
 <h2>🛠️ Configuração:</h2>
 

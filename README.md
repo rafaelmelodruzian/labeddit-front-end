@@ -38,18 +38,26 @@ Algumas funcionalidades do projeto incluem:
 <img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Desk%203.png">
 
 
-<h3>Mobile 📱</h3>
+<h3 align="center">Mobile 📱</h3>
+
 <h4 align="center">Login</h4>
 
-<img align="center" src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png">
+<p align="center">
+  <img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png" alt="Mob 1">
+</p>
 
 <h4 align="center">Posts</h4>
 
-<img align="center" src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png" >
+<p align="center">
+  <img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png" alt="Mob 2">
+</p>
 
 <h4 align="center">Comments</h4>
 
-<img align="center" src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png">
+<p align="center">
+  <img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png" alt="Mob 3">
+</p>
+
 
 <h2>🛠️ Configuração:</h2>
 

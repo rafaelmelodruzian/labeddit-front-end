@@ -26,7 +26,7 @@ Algumas funcionalidades do projeto incluem:
 
 <h4 align="center">Login</h4>
 
-[Desk 1](https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201.png)
+[Desk 1](https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201)
 
 <h4 align="center">Posts</h4>
 

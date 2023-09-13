@@ -1,12 +1,15 @@
-
-import './App.css';
+import GlobalState from "./global/globalState"
+import Router from './routes/router'
 
 function App() {
+
   return (
-   <div>
-    APP! 
-   </div>
-  );
+    <>
+      <GlobalState>
+          <Router />
+      </GlobalState>
+    </>
+  )
 }
 
-export default App;
+export default App

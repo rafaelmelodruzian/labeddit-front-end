@@ -26,29 +26,30 @@ Algumas funcionalidades do projeto incluem:
 
 <h4 align="center">Login</h4>
 
-[Desk 1](https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201)
+
+<img src="https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201">
 
 <h4 align="center">Posts</h4>
 
-[Desk 2](https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Desk%202.png)
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Desk%202.png">
 
 <h4 align="center">Comments</h4>
 
-[Desk 3](https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Desk%203.png)
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Desk%203.png">
 
 
 <h3>Mobile 📱</h3>
 <h4 align="center">Login</h4>
 
-[Mob 1](https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png)
+<img src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png">
 
 <h4 align="center">Posts</h4>
 
-[Mob 2](https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png)
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png">
 
 <h4 align="center">Comments</h4>
 
-[Mob 3](https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png)
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png">
 
 <h2>🛠️ Configuração:</h2>
 

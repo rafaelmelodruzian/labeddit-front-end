@@ -27,7 +27,7 @@ Algumas funcionalidades do projeto incluem:
 <h4 align="center">Login</h4>
 
 
-<img src="https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201">
+<img src="https://raw.githubusercontent.com/rafaelmelodruzian/labeddit-front-end/main/src/assets/Desk%201.png">
 
 <h4 align="center">Posts</h4>
 
@@ -41,15 +41,15 @@ Algumas funcionalidades do projeto incluem:
 <h3>Mobile 📱</h3>
 <h4 align="center">Login</h4>
 
-<img src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png">
+<img src= "https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%201.png" align="center">
 
 <h4 align="center">Posts</h4>
 
-<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png">
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%202.png" align="center">
 
 <h4 align="center">Comments</h4>
 
-<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png">
+<img src="https://github.com/rafaelmelodruzian/labeddit-front-end/blob/main/src/assets/Mob%203.png" align="center">
 
 <h2>🛠️ Configuração:</h2>
 

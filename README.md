@@ -8,7 +8,7 @@ Link API no Render: https://rafael-druzian-labeddit-back.onrender.com
 
 Link Projeto no Surge: https://rafael-labeddit.surge.sh/
 
-Link do Repositório Frontend: https://github.com/rafaelmelodruzian/labeddit-back-end
+Link do Repositório Backend: https://github.com/rafaelmelodruzian/labeddit-back-end
   
 <h2>🧐 Funcionalidades</h2>
 
